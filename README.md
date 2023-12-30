@@ -3,9 +3,14 @@
 - configured tailwindcss
 - Header
 - Routing
+- useState hook
 - Signin form
 - Sign up form
 - form validation
+- useRef hook
+- firebase Setup
+- deploying for production
+- create signup user account 
 
 # Features
 - Login/Signup page

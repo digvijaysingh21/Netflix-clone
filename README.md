@@ -1,10 +1,11 @@
 # Netflix clone
-- create Reac app 
+- create React app 
 - configured tailwindcss
 - Header
-- Login form
+- Routing
+- Signin form
 - Sign up form
-
+- form validation
 
 # Features
 - Login/Signup page
